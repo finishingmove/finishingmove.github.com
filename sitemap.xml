@@ -2,10 +2,14 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://finishingmove.github.io/blog/archives/</loc>
-        <lastmod>2013-07-06T10:36:34+02:00</lastmod>
+        <lastmod>2013-07-06T10:40:26+02:00</lastmod>
     </url>
     <url>
         <loc>http://finishingmove.github.io/</loc>
-        <lastmod>2013-07-06T10:36:34+02:00</lastmod>
+        <lastmod>2013-07-06T10:40:26+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://finishingmove.github.io/robots.txt</loc>
+        <lastmod>2013-07-06T10:40:00+02:00</lastmod>
     </url>
 </urlset>
