@@ -1,43 +1,20 @@
 /*
-Syntax error: Undefined variable: "$nav-border-left".
-        on line 45 of C:/_ruby/finishingmove.github.io/sass/custom/_styles.scss
-        from line 12 of C:/_ruby/finishingmove.github.io/sass/screen.scss
+Syntax error: File to import not found or unreadable: custom/styles.
+              Load paths:
+                Sass::Globbing::Importer
+                C:/_ruby/finishingmove.github.io/sass
+                C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/blueprint/stylesheets
+                C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets
+                Compass::SpriteImporter
+        on line 9 of C:/_ruby/finishingmove.github.io/sass/screen.scss
 
 Backtrace:
-C:/_ruby/finishingmove.github.io/sass/custom/_styles.scss:45
-C:/_ruby/finishingmove.github.io/sass/screen.scss:12
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/script/variable.rb:49:in `_perform'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/script/node.rb:40:in `perform'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/script/list.rb:70:in `block in _perform'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/script/list.rb:70:in `map'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/script/list.rb:70:in `_perform'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/script/node.rb:40:in `perform'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:298:in `visit_prop'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `map'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `visit_children'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:109:in `block in visit_children'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:121:in `with_environment'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:108:in `visit_children'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `block in visit'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:320:in `visit_rule'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `map'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `visit_children'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:109:in `block in visit_children'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:121:in `with_environment'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:108:in `visit_children'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `block in visit'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:320:in `visit_rule'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:227:in `block in visit_import'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:227:in `map'
-C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:227:in `visit_import'
+C:/_ruby/finishingmove.github.io/sass/screen.scss:9
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/import_node.rb:67:in `rescue in import'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/import_node.rb:45:in `import'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/import_node.rb:28:in `imported_file'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/import_node.rb:37:in `css_import?'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:217:in `visit_import'
 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
@@ -79,4 +56,4 @@ C:/RailsInstaller/Ruby1.9.3/bin/compass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Undefined variable: \"$nav-border-left\".\A         on line 45 of C:/_ruby/finishingmove.github.io/sass/custom/_styles.scss\A         from line 12 of C:/_ruby/finishingmove.github.io/sass/screen.scss"; }
+  content: "Syntax error: File to import not found or unreadable: custom/styles.\A               Load paths:\A                 Sass::Globbing::Importer\A                 C:/_ruby/finishingmove.github.io/sass\A                 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/blueprint/stylesheets\A                 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets\A                 Compass::SpriteImporter\A         on line 9 of C:/_ruby/finishingmove.github.io/sass/screen.scss"; }
