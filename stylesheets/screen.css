@@ -1,13 +1,11 @@
 /*
-Syntax error: Undefined variable: "$page-bg".
-        on line 6 of C:/_ruby/finishingmove.github.io/sass/custom/_styles.scss
-        from line 9 of C:/_ruby/finishingmove.github.io/sass/screen.scss
-
-1: C:/_ruby/finishingmove.github.io/sass/screen.scss
+Syntax error: Undefined variable: "$nav-border-left".
+        on line 45 of C:/_ruby/finishingmove.github.io/sass/custom/_styles.scss
+        from line 12 of C:/_ruby/finishingmove.github.io/sass/screen.scss
 
 Backtrace:
-C:/_ruby/finishingmove.github.io/sass/custom/_styles.scss:6
-C:/_ruby/finishingmove.github.io/sass/screen.scss:9
+C:/_ruby/finishingmove.github.io/sass/custom/_styles.scss:45
+C:/_ruby/finishingmove.github.io/sass/screen.scss:12
 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/script/variable.rb:49:in `_perform'
 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/script/node.rb:40:in `perform'
 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/script/list.rb:70:in `block in _perform'
@@ -15,6 +13,16 @@ C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/script/
 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/script/list.rb:70:in `_perform'
 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/script/node.rb:40:in `perform'
 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:298:in `visit_prop'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `map'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `visit_children'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:109:in `block in visit_children'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:121:in `with_environment'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:108:in `visit_children'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `block in visit'
+C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:320:in `visit_rule'
 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
 C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
@@ -71,4 +79,4 @@ C:/RailsInstaller/Ruby1.9.3/bin/compass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Undefined variable: \"$page-bg\".\A         on line 6 of C:/_ruby/finishingmove.github.io/sass/custom/_styles.scss\A         from line 9 of C:/_ruby/finishingmove.github.io/sass/screen.scss\A \A 1: C:/_ruby/finishingmove.github.io/sass/screen.scss"; }
+  content: "Syntax error: Undefined variable: \"$nav-border-left\".\A         on line 45 of C:/_ruby/finishingmove.github.io/sass/custom/_styles.scss\A         from line 12 of C:/_ruby/finishingmove.github.io/sass/screen.scss"; }
