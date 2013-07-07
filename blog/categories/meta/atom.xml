@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meta | Programming and other wizardry]]></title>
+  <link href="http://finishingmove.github.io/blog/categories/meta/atom.xml" rel="self"/>
+  <link href="http://finishingmove.github.io/"/>
+  <updated>2013-07-07T07:04:41+02:00</updated>
+  <id>http://finishingmove.github.io/</id>
+  <author>
+    <name><![CDATA[finishingmove]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, World]]></title>
+    <link href="http://finishingmove.github.io/blog/2013/07/07/hello/"/>
+    <updated>2013-07-07T06:32:00+02:00</updated>
+    <id>http://finishingmove.github.io/blog/2013/07/07/hello</id>
+    <content type="html"><![CDATA[<p><div class="highlight"><pre><code class="javascript"><span class="p">(</span><span class="kd">function</span> <span class="nx">HelloWorld</span><span class="p">()</span> <span class="p">{</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="o">&amp;</span><span class="nx">lsquo</span><span class="p">;</span><span class="nx">Welcome</span> <span class="nx">to</span> <span class="nx">the</span> <span class="nx">desert</span> <span class="nx">of</span> <span class="nx">the</span> <span class="nx">real</span><span class="o">&amp;</span><span class="nx">rsquo</span><span class="p">;);</span>
+<span class="p">})();</span>
+</code></pre></div></p>
+]]></content>
+  </entry>
+  
+</feed>

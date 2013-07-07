@@ -4,7 +4,7 @@
   <title><![CDATA[Programming and other wizardry]]></title>
   <link href="http://finishingmove.github.io/atom.xml" rel="self"/>
   <link href="http://finishingmove.github.io/"/>
-  <updated>2013-07-07T05:31:45+02:00</updated>
+  <updated>2013-07-07T07:04:41+02:00</updated>
   <id>http://finishingmove.github.io/</id>
   <author>
     <name><![CDATA[finishingmove]]></name>
@@ -12,5 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, World]]></title>
+    <link href="http://finishingmove.github.io/blog/2013/07/07/hello/"/>
+    <updated>2013-07-07T06:32:00+02:00</updated>
+    <id>http://finishingmove.github.io/blog/2013/07/07/hello</id>
+    <content type="html"><![CDATA[
+
+<div class="highlight"><pre><code class="javascript"><span class="p">(</span><span class="kd">function</span> <span class="nx">HelloWorld</span><span class="p">()</span> <span class="p">{</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;Welcome to the desert of the real&#39;</span><span class="p">);</span>
+<span class="p">})();</span>
+</code></pre></div>
+
+
+
+]]></content>
+  </entry>
   
 </feed>
