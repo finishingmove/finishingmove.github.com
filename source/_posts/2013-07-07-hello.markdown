@@ -23,6 +23,7 @@ And don't stop at one programming language, learn as many as you can. It will op
 that, contrary to popular belief, are in fact useful in the "real world" -- and evermore so. Understanding machines is,
 and will continue to be, an important mean for our own evolution.
 
+
 In case you're still here, I'm pleased to inform you that this blog will *not* deal with (many) metaphysical issues.
 Rather, it will be a journey into programming, exploring various languages and paradigms. There's a long way to go,
 for both you and me. Hopefully, you will answer your own *whys* in time. To aid you in that, pills will be
