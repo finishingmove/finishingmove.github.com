@@ -7,14 +7,15 @@ categories:
  - meta
 ---
 
-{% highlight javascript %}
+{% codeblock lang:javascript %}
 (function HelloWorld() {
   console.log('Welcome to the desert of the real');
 })();
-{% endhighlight %}
+{% endcodeblock %}
 
 Not much, eh? Well, you tell that to our friend Neo...
 
+<!-- more -->
 As is the case with any newly acquired knowledge, programming can be a bit of a shock initially.
 Fortunately, not each *red pill* has implications as severe as *The Matrix* portrays.
 Pill-munching and metaphor-crunching aside, if you ever considered learning programming, just do it.
