@@ -1,2 +1,1 @@
-finishingmove.github.com
-========================
+README

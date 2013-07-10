@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Programming and other wizardry]]></title>
+  <link href="http://finishingmove.github.io/atom.xml" rel="self"/>
+  <link href="http://finishingmove.github.io/"/>
+  <updated>2013-07-07T09:44:06+02:00</updated>
+  <id>http://finishingmove.github.io/</id>
+  <author>
+    <name><![CDATA[finishingmove]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, World]]></title>
+    <link href="http://finishingmove.github.io/blog/2013/07/07/hello/"/>
+    <updated>2013-07-07T06:32:00+02:00</updated>
+    <id>http://finishingmove.github.io/blog/2013/07/07/hello</id>
+    <content type="html"><![CDATA[
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="p">(</span><span class="kd">function</span> <span class="nx">HelloWorld</span><span class="p">()</span> <span class="p">{</span>
+</span><span class='line'>  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;Welcome to the desert of the real&#39;</span><span class="p">);</span>
+</span><span class='line'><span class="p">})();</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Not much, eh? Well, you tell that to our friend Neo&hellip;</p>
+
+<!-- more -->
+
+
+<p>As is the case with any newly acquired knowledge, programming can be a bit of a shock initially.
+Fortunately, not each <em>red pill</em> has implications as severe as <em>The Matrix</em> portrays.
+Pill-munching and metaphor-crunching aside, if you ever considered learning programming, just do it.
+And don&rsquo;t stop at one programming language, learn as many as you can. It will open your mind to new ways of thinking
+that, contrary to popular belief, are in fact useful in the &ldquo;real world&rdquo; &mdash; and evermore so. Understanding machines is,
+and will continue to be, an important mean for our own evolution.</p>
+
+<p>In case you&rsquo;re still here, I&rsquo;m pleased to inform you that this blog will <em>not</em> deal with (many) metaphysical issues.
+Rather, it will be a journey into programming, exploring various languages and paradigms. There&rsquo;s a long way to go,
+for both you and me. Hopefully, you will answer your own <em>whys</em> in time. To aid you in that, pills will be
+handed out in different flavours:</p>
+
+<ul>
+<li>JavaScript</li>
+<li>Haskell</li>
+<li>Clojure</li>
+<li>Ruby</li>
+<li>PHP</li>
+<li>other?</li>
+</ul>
+
+
+<p>The taste of some might be bitter at first, but it will grow on you after some time :)</p>
+]]></content>
+  </entry>
+  
+</feed>
